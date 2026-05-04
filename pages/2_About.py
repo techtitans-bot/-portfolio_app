@@ -1,0 +1,15 @@
+import streamlit as st
+st.header("👤 About Me")
+st.write("- A 3rd year college student")
+st.write("- 21 year old a passionate designer")
+st.write("- No to alcohol and Cigarettes")
+st.write("- Python & C++ Student")
+st.write("- My favorite outdoor activities (Hiking, Nature trip, Beaches Enjoyer)")
+st.write("- I love also (singing, Watching Movies, Playing Online Games)")
+st.write("- I have simple dreams to success")
+
+st.header("EUKASYON")
+st.write("College/Universities - DEBESMSCAT")
+st.write("• Senior High School - Panique National High School")
+st.write("• Junior High School - PNHS (Grade-7), MNCHS (Grade-8 to 10)")
+st.write("• Elementary - San Isidro Elementary School")
